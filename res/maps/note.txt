@@ -1,0 +1,5 @@
+0: tuong
+1: lua
+2: nuoc
+3: co
+4: dat
